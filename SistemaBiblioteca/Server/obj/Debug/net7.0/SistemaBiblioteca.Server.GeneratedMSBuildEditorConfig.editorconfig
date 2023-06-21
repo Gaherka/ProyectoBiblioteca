@@ -9,13 +9,13 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SistemaBiblioteca.Server
 build_property.RootNamespace = SistemaBiblioteca.Server
-build_property.ProjectDir = C:\Users\zvmaq\Downloads\100_SistemaBibliotecaBlazorNet7-main\100_SistemaBibliotecaBlazorNet7-main\SistemaBiblioteca\SistemaBiblioteca\Server\
+build_property.ProjectDir = C:\Users\UFG\Desktop\ProyectoBiblioteca\SistemaBiblioteca\Server\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\zvmaq\Downloads\100_SistemaBibliotecaBlazorNet7-main\100_SistemaBibliotecaBlazorNet7-main\SistemaBiblioteca\SistemaBiblioteca\Server
+build_property.MSBuildProjectDirectory = C:\Users\UFG\Desktop\ProyectoBiblioteca\SistemaBiblioteca\Server
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/zvmaq/Downloads/100_SistemaBibliotecaBlazorNet7-main/100_SistemaBibliotecaBlazorNet7-main/SistemaBiblioteca/SistemaBiblioteca/Server/Pages/Error.cshtml]
+[C:/Users/UFG/Desktop/ProyectoBiblioteca/SistemaBiblioteca/Server/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zvmaq\\Downloads\\100_SistemaBibliotecaBlazorNet7-main\\100_SistemaBibliotecaBlazorNet7-main\\SistemaBiblioteca\\SistemaBiblioteca\\Shared\\SistemaBiblioteca.Shared.csproj": {}
+    "C:\\Users\\UFG\\Desktop\\ProyectoBiblioteca\\SistemaBiblioteca\\Shared\\SistemaBiblioteca.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zvmaq\\Downloads\\100_SistemaBibliotecaBlazorNet7-main\\100_SistemaBibliotecaBlazorNet7-main\\SistemaBiblioteca\\SistemaBiblioteca\\Shared\\SistemaBiblioteca.Shared.csproj": {
+    "C:\\Users\\UFG\\Desktop\\ProyectoBiblioteca\\SistemaBiblioteca\\Shared\\SistemaBiblioteca.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zvmaq\\Downloads\\100_SistemaBibliotecaBlazorNet7-main\\100_SistemaBibliotecaBlazorNet7-main\\SistemaBiblioteca\\SistemaBiblioteca\\Shared\\SistemaBiblioteca.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\UFG\\Desktop\\ProyectoBiblioteca\\SistemaBiblioteca\\Shared\\SistemaBiblioteca.Shared.csproj",
         "projectName": "SistemaBiblioteca.Shared",
-        "projectPath": "C:\\Users\\zvmaq\\Downloads\\100_SistemaBibliotecaBlazorNet7-main\\100_SistemaBibliotecaBlazorNet7-main\\SistemaBiblioteca\\SistemaBiblioteca\\Shared\\SistemaBiblioteca.Shared.csproj",
-        "packagesPath": "C:\\Users\\zvmaq\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zvmaq\\Downloads\\100_SistemaBibliotecaBlazorNet7-main\\100_SistemaBibliotecaBlazorNet7-main\\SistemaBiblioteca\\SistemaBiblioteca\\Shared\\obj\\",
+        "projectPath": "C:\\Users\\UFG\\Desktop\\ProyectoBiblioteca\\SistemaBiblioteca\\Shared\\SistemaBiblioteca.Shared.csproj",
+        "packagesPath": "C:\\Users\\UFG\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\UFG\\Desktop\\ProyectoBiblioteca\\SistemaBiblioteca\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\zvmaq\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\UFG\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
