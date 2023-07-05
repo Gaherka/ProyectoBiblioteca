@@ -28,4 +28,5 @@ public partial class Libro
     public virtual Categoria? IdCategoriaNavigation { get; set; }
 
     public virtual ICollection<Prestamo> Prestamos { get; set; } = new List<Prestamo>();
+    public byte[]? PDF { get; set; }
 }

@@ -23,5 +23,6 @@ namespace SistemaBiblioteca.Shared
         public int? Ejemplares { get; set; }
         public byte[]? Portada { get; set; }
         public CategoriaDTO? IdCategoriaNavigation { get; set; }
+        public byte[]? PDF { get; set; }
     }
 }
