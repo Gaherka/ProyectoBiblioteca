@@ -164,4 +164,13 @@
         await resizedFile.OpenReadStream().ReadAsync(buffer);
         _libro.Portada = buffer;
     }
+    private async Task UploadPDF(InputFileChangeEventArgs e)
+    {
+        var file = e.File;
+        var buffer = new byte[file.Size];
+
+        await file.OpenReadStream().ReadAsync(buffer);
+        _libro.PDF = buffer;
+    }
+
 }

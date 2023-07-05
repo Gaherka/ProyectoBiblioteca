@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zvmaq\\Downloads\\100_SistemaBibliotecaBlazorNet7-main\\100_SistemaBibliotecaBlazorNet7-main\\SistemaBiblioteca\\SistemaBiblioteca\\Client\\SistemaBiblioteca.Client.csproj": {}
+    "C:\\Users\\saave\\Documents\\ProyectoBiblioteca\\SistemaBiblioteca\\Client\\SistemaBiblioteca.Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zvmaq\\Downloads\\100_SistemaBibliotecaBlazorNet7-main\\100_SistemaBibliotecaBlazorNet7-main\\SistemaBiblioteca\\SistemaBiblioteca\\Client\\SistemaBiblioteca.Client.csproj": {
+    "C:\\Users\\saave\\Documents\\ProyectoBiblioteca\\SistemaBiblioteca\\Client\\SistemaBiblioteca.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zvmaq\\Downloads\\100_SistemaBibliotecaBlazorNet7-main\\100_SistemaBibliotecaBlazorNet7-main\\SistemaBiblioteca\\SistemaBiblioteca\\Client\\SistemaBiblioteca.Client.csproj",
+        "projectUniqueName": "C:\\Users\\saave\\Documents\\ProyectoBiblioteca\\SistemaBiblioteca\\Client\\SistemaBiblioteca.Client.csproj",
         "projectName": "SistemaBiblioteca.Client",
-        "projectPath": "C:\\Users\\zvmaq\\Downloads\\100_SistemaBibliotecaBlazorNet7-main\\100_SistemaBibliotecaBlazorNet7-main\\SistemaBiblioteca\\SistemaBiblioteca\\Client\\SistemaBiblioteca.Client.csproj",
-        "packagesPath": "C:\\Users\\zvmaq\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zvmaq\\Downloads\\100_SistemaBibliotecaBlazorNet7-main\\100_SistemaBibliotecaBlazorNet7-main\\SistemaBiblioteca\\SistemaBiblioteca\\Client\\obj\\",
+        "projectPath": "C:\\Users\\saave\\Documents\\ProyectoBiblioteca\\SistemaBiblioteca\\Client\\SistemaBiblioteca.Client.csproj",
+        "packagesPath": "C:\\Users\\saave\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\saave\\Documents\\ProyectoBiblioteca\\SistemaBiblioteca\\Client\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\zvmaq\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\saave\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,15 +22,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\zvmaq\\Downloads\\100_SistemaBibliotecaBlazorNet7-main\\100_SistemaBibliotecaBlazorNet7-main\\SistemaBiblioteca\\SistemaBiblioteca\\Shared\\SistemaBiblioteca.Shared.csproj": {
-                "projectPath": "C:\\Users\\zvmaq\\Downloads\\100_SistemaBibliotecaBlazorNet7-main\\100_SistemaBibliotecaBlazorNet7-main\\SistemaBiblioteca\\SistemaBiblioteca\\Shared\\SistemaBiblioteca.Shared.csproj"
+              "C:\\Users\\saave\\Documents\\ProyectoBiblioteca\\SistemaBiblioteca\\Shared\\SistemaBiblioteca.Shared.csproj": {
+                "projectPath": "C:\\Users\\saave\\Documents\\ProyectoBiblioteca\\SistemaBiblioteca\\Shared\\SistemaBiblioteca.Shared.csproj"
               }
             }
           }
@@ -102,21 +97,17 @@
         }
       }
     },
-    "C:\\Users\\zvmaq\\Downloads\\100_SistemaBibliotecaBlazorNet7-main\\100_SistemaBibliotecaBlazorNet7-main\\SistemaBiblioteca\\SistemaBiblioteca\\Shared\\SistemaBiblioteca.Shared.csproj": {
+    "C:\\Users\\saave\\Documents\\ProyectoBiblioteca\\SistemaBiblioteca\\Shared\\SistemaBiblioteca.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zvmaq\\Downloads\\100_SistemaBibliotecaBlazorNet7-main\\100_SistemaBibliotecaBlazorNet7-main\\SistemaBiblioteca\\SistemaBiblioteca\\Shared\\SistemaBiblioteca.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\saave\\Documents\\ProyectoBiblioteca\\SistemaBiblioteca\\Shared\\SistemaBiblioteca.Shared.csproj",
         "projectName": "SistemaBiblioteca.Shared",
-        "projectPath": "C:\\Users\\zvmaq\\Downloads\\100_SistemaBibliotecaBlazorNet7-main\\100_SistemaBibliotecaBlazorNet7-main\\SistemaBiblioteca\\SistemaBiblioteca\\Shared\\SistemaBiblioteca.Shared.csproj",
-        "packagesPath": "C:\\Users\\zvmaq\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zvmaq\\Downloads\\100_SistemaBibliotecaBlazorNet7-main\\100_SistemaBibliotecaBlazorNet7-main\\SistemaBiblioteca\\SistemaBiblioteca\\Shared\\obj\\",
+        "projectPath": "C:\\Users\\saave\\Documents\\ProyectoBiblioteca\\SistemaBiblioteca\\Shared\\SistemaBiblioteca.Shared.csproj",
+        "packagesPath": "C:\\Users\\saave\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\saave\\Documents\\ProyectoBiblioteca\\SistemaBiblioteca\\Shared\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\zvmaq\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\saave\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -124,7 +115,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
