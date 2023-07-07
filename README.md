@@ -5,6 +5,8 @@ especificado.
 incluye ademas un apartado de venta de libros, que pueden comprarse directamente desde el sitiio web, un historial de compras (de los libros) 
 asi como tambien reportes semanales y mensuales para saber cuales libros segun su categoria, tema u autor son los mas comprados o prestados.
 
-Para que pueda funcionar, debe de crearse una base de datos con el archivo ScriptDB.sql que se encuentra en el repositorio. 
+Para que pueda funcionar: 
 
-Posterior a esto se necesita ejecutar el programa, las variables de acceso por defecto son: USUARIO: admin@example.com CONTRASEÑA: 12345
+1. Clone el repositorio en su maquina
+2. Cree la base de datos con el archivo ScriptDB.sql que se encuentra en el repositorio.
+3. Ejecutar el programa, las variables de acceso por defecto son: USUARIO: admin@example.com CONTRASEÑA: 12345
