@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\saave\\.nuget\\packages\\": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\saave\\Documents\\ProyectoBiblioteca\\SistemaBiblioteca\\Shared\\SistemaBiblioteca.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Documents\\Progra\\ProyectoBiblioteca\\SistemaBiblioteca\\Shared\\SistemaBiblioteca.Shared.csproj",
       "projectName": "SistemaBiblioteca.Shared",
-      "projectPath": "C:\\Users\\saave\\Documents\\ProyectoBiblioteca\\SistemaBiblioteca\\Shared\\SistemaBiblioteca.Shared.csproj",
-      "packagesPath": "C:\\Users\\saave\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\saave\\Documents\\ProyectoBiblioteca\\SistemaBiblioteca\\Shared\\obj\\",
+      "projectPath": "C:\\Users\\Admin\\Documents\\Progra\\ProyectoBiblioteca\\SistemaBiblioteca\\Shared\\SistemaBiblioteca.Shared.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Admin\\Documents\\Progra\\ProyectoBiblioteca\\SistemaBiblioteca\\Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\saave\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

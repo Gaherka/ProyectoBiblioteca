@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\saave\\Documents\\ProyectoBiblioteca\\SistemaBiblioteca\\Server\\SistemaBiblioteca.Server.csproj": {}
+    "C:\\Users\\Admin\\Documents\\Progra\\ProyectoBiblioteca\\SistemaBiblioteca\\Server\\SistemaBiblioteca.Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\saave\\Documents\\ProyectoBiblioteca\\SistemaBiblioteca\\Client\\SistemaBiblioteca.Client.csproj": {
+    "C:\\Users\\Admin\\Documents\\Progra\\ProyectoBiblioteca\\SistemaBiblioteca\\Client\\SistemaBiblioteca.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saave\\Documents\\ProyectoBiblioteca\\SistemaBiblioteca\\Client\\SistemaBiblioteca.Client.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\Progra\\ProyectoBiblioteca\\SistemaBiblioteca\\Client\\SistemaBiblioteca.Client.csproj",
         "projectName": "SistemaBiblioteca.Client",
-        "projectPath": "C:\\Users\\saave\\Documents\\ProyectoBiblioteca\\SistemaBiblioteca\\Client\\SistemaBiblioteca.Client.csproj",
-        "packagesPath": "C:\\Users\\saave\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saave\\Documents\\ProyectoBiblioteca\\SistemaBiblioteca\\Client\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Documents\\Progra\\ProyectoBiblioteca\\SistemaBiblioteca\\Client\\SistemaBiblioteca.Client.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\Progra\\ProyectoBiblioteca\\SistemaBiblioteca\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\saave\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\saave\\Documents\\ProyectoBiblioteca\\SistemaBiblioteca\\Shared\\SistemaBiblioteca.Shared.csproj": {
-                "projectPath": "C:\\Users\\saave\\Documents\\ProyectoBiblioteca\\SistemaBiblioteca\\Shared\\SistemaBiblioteca.Shared.csproj"
+              "C:\\Users\\Admin\\Documents\\Progra\\ProyectoBiblioteca\\SistemaBiblioteca\\Shared\\SistemaBiblioteca.Shared.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Documents\\Progra\\ProyectoBiblioteca\\SistemaBiblioteca\\Shared\\SistemaBiblioteca.Shared.csproj"
               }
             }
           }
@@ -97,17 +97,17 @@
         }
       }
     },
-    "C:\\Users\\saave\\Documents\\ProyectoBiblioteca\\SistemaBiblioteca\\Server\\SistemaBiblioteca.Server.csproj": {
+    "C:\\Users\\Admin\\Documents\\Progra\\ProyectoBiblioteca\\SistemaBiblioteca\\Server\\SistemaBiblioteca.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saave\\Documents\\ProyectoBiblioteca\\SistemaBiblioteca\\Server\\SistemaBiblioteca.Server.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\Progra\\ProyectoBiblioteca\\SistemaBiblioteca\\Server\\SistemaBiblioteca.Server.csproj",
         "projectName": "SistemaBiblioteca.Server",
-        "projectPath": "C:\\Users\\saave\\Documents\\ProyectoBiblioteca\\SistemaBiblioteca\\Server\\SistemaBiblioteca.Server.csproj",
-        "packagesPath": "C:\\Users\\saave\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saave\\Documents\\ProyectoBiblioteca\\SistemaBiblioteca\\Server\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Documents\\Progra\\ProyectoBiblioteca\\SistemaBiblioteca\\Server\\SistemaBiblioteca.Server.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\Progra\\ProyectoBiblioteca\\SistemaBiblioteca\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\saave\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -122,11 +122,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\saave\\Documents\\ProyectoBiblioteca\\SistemaBiblioteca\\Client\\SistemaBiblioteca.Client.csproj": {
-                "projectPath": "C:\\Users\\saave\\Documents\\ProyectoBiblioteca\\SistemaBiblioteca\\Client\\SistemaBiblioteca.Client.csproj"
+              "C:\\Users\\Admin\\Documents\\Progra\\ProyectoBiblioteca\\SistemaBiblioteca\\Client\\SistemaBiblioteca.Client.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Documents\\Progra\\ProyectoBiblioteca\\SistemaBiblioteca\\Client\\SistemaBiblioteca.Client.csproj"
               },
-              "C:\\Users\\saave\\Documents\\ProyectoBiblioteca\\SistemaBiblioteca\\Shared\\SistemaBiblioteca.Shared.csproj": {
-                "projectPath": "C:\\Users\\saave\\Documents\\ProyectoBiblioteca\\SistemaBiblioteca\\Shared\\SistemaBiblioteca.Shared.csproj"
+              "C:\\Users\\Admin\\Documents\\Progra\\ProyectoBiblioteca\\SistemaBiblioteca\\Shared\\SistemaBiblioteca.Shared.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Documents\\Progra\\ProyectoBiblioteca\\SistemaBiblioteca\\Shared\\SistemaBiblioteca.Shared.csproj"
               }
             }
           }
@@ -187,17 +187,17 @@
         }
       }
     },
-    "C:\\Users\\saave\\Documents\\ProyectoBiblioteca\\SistemaBiblioteca\\Shared\\SistemaBiblioteca.Shared.csproj": {
+    "C:\\Users\\Admin\\Documents\\Progra\\ProyectoBiblioteca\\SistemaBiblioteca\\Shared\\SistemaBiblioteca.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saave\\Documents\\ProyectoBiblioteca\\SistemaBiblioteca\\Shared\\SistemaBiblioteca.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\Progra\\ProyectoBiblioteca\\SistemaBiblioteca\\Shared\\SistemaBiblioteca.Shared.csproj",
         "projectName": "SistemaBiblioteca.Shared",
-        "projectPath": "C:\\Users\\saave\\Documents\\ProyectoBiblioteca\\SistemaBiblioteca\\Shared\\SistemaBiblioteca.Shared.csproj",
-        "packagesPath": "C:\\Users\\saave\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saave\\Documents\\ProyectoBiblioteca\\SistemaBiblioteca\\Shared\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Documents\\Progra\\ProyectoBiblioteca\\SistemaBiblioteca\\Shared\\SistemaBiblioteca.Shared.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\Progra\\ProyectoBiblioteca\\SistemaBiblioteca\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\saave\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
