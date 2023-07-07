@@ -1,0 +1,154 @@
+create database DBBibliotecaBlazor
+go
+
+use DBBibliotecaBlazor
+
+go
+
+CREATE TABLE  Categoria(
+IdCategoria int primary key identity,
+Descripcion varchar(50),
+Estado bit default 1,
+FechaCreacion datetime default getdate()
+)
+
+go
+
+
+CREATE TABLE Libro(
+IdLibro int primary key identity,
+Titulo varchar(100),
+Autor varchar(100),
+IdCategoria int references CATEGORIA(IdCategoria),
+Editorial varchar(100),
+Ubicacion varchar(50),
+Ejemplares int,
+Portada varbinary(max),
+PDF  varbinary(max),
+Estado bit default 1,
+FechaCreacion datetime default getdate()
+)
+
+GO
+
+create table Usuario(
+idUsuario int primary key identity(1,1),
+nombreApellidos varchar(100),
+correo varchar(40),
+clave varchar(40),
+esActivo bit,
+FechaCreacion datetime default getdate()
+)
+
+go
+
+CREATE TABLE Lector(
+IdLector int primary key identity,
+Codigo varchar(50),
+Nombre varchar(50),
+Apellido varchar(50),
+Correo varchar(50),
+Clave varchar(50),
+Estado bit default 1,
+FechaCreacion datetime default getdate()
+)
+
+go
+
+
+CREATE TABLE EstadoPrestamo(
+IdEstadoPrestamo int primary key,
+Descripcion varchar(50),
+Estado bit default 1,
+FechaCreacion datetime default getdate()
+)
+
+GO
+
+CREATE TABLE Prestamo(
+IdPrestamo int primary key identity,
+Codigo varchar(50),
+IdEstadoPrestamo int references EstadoPrestamo(IdEstadoPrestamo),
+IdLector int references Lector(IdLector),
+IdLibro int references Libro(IdLibro),
+FechaDevolucion datetime,
+FechaConfirmacionDevolucion datetime,
+EstadoEntregado varchar(100),
+EstadoRecibido varchar(100),
+Estado bit default 1,
+FechaCreacion datetime default getdate()
+)
+
+go
+
+create table NumeroCorrelativo(
+IdNumeroCorrelativo int primary key identity(1,1),
+Prefijo varchar(2) not null,
+Tipo varchar(100) not null,
+UltimoNumero int not null,
+FechaRegistro datetime default getdate()
+)
+
+go
+
+INSERT INTO EstadoPrestamo(IdEstadoPrestamo,Descripcion) VALUES
+(1,'Pendiente'),
+(2,'Devuelto')
+
+go
+
+--INSERTAR USUARIOS
+insert into usuario(nombreApellidos,correo,Clave,esActivo) values
+('Brallan Sanchez','admin@example.com','12345',1)
+
+go
+
+insert into NumeroCorrelativo(prefijo,tipo,ultimonumero) values
+('LT','Lector',0),
+('PR','Prestamo',0)
+
+go
+
+insert into Categoria(Descripcion,Estado) values
+('Quimica',1),
+('Psicologia',1),
+('Historia Geografia',1),
+('Novela',1),
+('Ciencia',1),
+('Biografias',1),
+('Novela Gotica',1),
+('Poema',1),
+('Ciencia Ficcion',1),
+('Fantasia',1)
+
+go
+
+INSERT INTO EstadoPrestamo(IdEstadoPrestamo,Descripcion) VALUES
+(1,'Pendiente'),
+(2,'Devuelto')
+
+go
+
+--INSERTAR USUARIOS
+insert into usuario(nombreApellidos,correo,Clave,esActivo) values
+('Karla Hernández','admin@example.com','12345',1)
+
+go
+
+insert into NumeroCorrelativo(prefijo,tipo,ultimonumero) values
+('LT','Lector',0),
+('PR','Prestamo',0)
+
+go
+
+insert into Categoria(Descripcion,Estado) values
+('Quimica',1),
+('Psicologia',1),
+('Historia Geografia',1),
+('Novela',1),
+('Ciencia',1),
+('Biografias',1),
+('Novela Gotica',1),
+('Poema',1),
+('Ciencia Ficcion',1),
+('Fantasia',1)

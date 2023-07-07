@@ -49,7 +49,14 @@
 
                     @if (!bClearInputFile)
                     {
+                        <p class="mt-4">Subir portada del libro:</p>
                         <InputFile OnChange="UploadLibro" class="form-control mt-4"></InputFile>
+                    }
+
+                    @if (!bClearInputFile)
+                    {
+                        <p class="mt-4">Subir documento PDF del libro digital:</p>
+                        <InputFile OnChange="UploadPDF" class="form-control mt-4"></InputFile>
                     }
                     
 
