@@ -201,15 +201,15 @@
       "mscorlib.dll": "sha256-gEh2pbf9QBKUbbQNDp178pkm5vz7xXFGhpFgUcAhyTE=",
       "netstandard.dll": "sha256-IEYNogoWZgSKXlx0+Pn2bt3irEZ1nuCnjK9Bm+3OWYw=",
       "System.Private.CoreLib.dll": "sha256-XrgDwG5fUErLSziY3dAwA0PYLIirTlornT8Lb6U2DUs=",
-      "SistemaBiblioteca.Shared.dll": "sha256-ZmZqig2MPJlWlQR6xGmenvPuWMExHsNz+9n+rcsS1Ug=",
-      "SistemaBiblioteca.Client.dll": "sha256-xpsDE1YdQPSlILzLI9OEkHD86KiDIULWUDO1U4UvCkw="
+      "SistemaBiblioteca.Shared.dll": "sha256-wAN0\/Ilmn6L20wlXZjEIIlOzYT6PCfIkJde2FI4v20I=",
+      "SistemaBiblioteca.Client.dll": "sha256-g39LX8sWamDX0sqGo5w0c1gW2rG94\/3hN\/gbfay9L7o="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "SistemaBiblioteca.Shared.pdb": "sha256-UXo04bEKL3dk1rCVoRER+\/Iy8ZFImk0vIdz7wFk\/RDE=",
-      "SistemaBiblioteca.Client.pdb": "sha256-7AH+sTYfHrcHQomUQSUCYBiUEMqAFBLqno9gWaOQyl8="
+      "SistemaBiblioteca.Shared.pdb": "sha256-G37lz0BofuQSpkcvsp2Y2\/NgchteMZrIUuetLYYZK\/A=",
+      "SistemaBiblioteca.Client.pdb": "sha256-MBUEZ9ANA3l9tzJkfLTtv\/jD1\/pWllPPeQiDp3IgiTY="
     },
     "runtime": {
       "dotnet.7.0.7.snhzdet9ff.js": "sha256-JmMF+3r0RjsO0yYBfDP8Pq2ahxBSJHFu7mZNB9lqLsw=",

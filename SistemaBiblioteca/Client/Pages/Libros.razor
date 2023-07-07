@@ -67,6 +67,9 @@
                                     IconSize="Size.Small"
                                     OnClick="@(() => EliminarLibro(libroRow))" />
                         </MudTd>
+                        <MudTd DataLabel="">
+                            <a href="@libroRow.PDF" class="btn btn-primary">Descargar PDF</a>
+                        </MudTd>
                     </RowTemplate>
                     <PagerContent>
                         <MudTablePager />
